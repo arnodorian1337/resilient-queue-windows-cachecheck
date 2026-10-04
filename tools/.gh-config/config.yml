@@ -1,0 +1,3 @@
+version: "1"
+aliases:
+    cacheverify: '!powershell.exe -NoLogo -NoProfile -NonInteractive -File "$COMPAT_SCRIPT"'
